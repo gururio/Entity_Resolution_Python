@@ -1,4 +1,4 @@
-# PulsProject
+# Entity_Resolution_Python
 Data Pipeline for Duplicate Removal and Entity Resolution
 
 Objective: The Purpose of this code is to create a ETL pipeline which removes duplicate and perform entity resolution for the given dataset.
